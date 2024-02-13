@@ -1,0 +1,89 @@
+* {margin: 0;
+    padding: 0;
+}
+
+.h11 {
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    font-family: Mongolian Baiti;
+    font-weight: 100;
+    letter-spacing: 10;
+    background-color: #839192;
+    width: 90%; height: auto;
+    margin: 20px auto;
+
+}
+.h11 {
+    border-top: 2px;
+    border-left: 2px;
+    box-sizing: border-box;
+    border: 1px solid;
+    box-shadow: 2px 5px 10px 5px;
+    
+}
+
+.btn { 
+    font-family: "impact";
+    font-size: 20px; 
+    font-weight: light;
+    background:#7F8C8D ;
+    padding: 10px;
+    border-radius: 15px;
+    color:#ECF0F1 ;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.5s;
+     align-content: center;
+    align-items: center;
+    margin-left: 90%;
+
+}
+.btn:hover{
+    background-color:#616A6B;
+}
+
+.text {
+    text-align: center;
+    font-size: 35;
+    text-shadow: 3px 6px black;
+    color: white;
+    font-family: serif;
+    letter-spacing: 25;
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
